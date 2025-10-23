@@ -1,0 +1,9 @@
+-std=c99
+-Wall
+-Wextra
+-Werror=vla
+-Wconversion
+-Wdangling-pointer=1
+-Werror=uninitialized
+-Werror=return-type
+
