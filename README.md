@@ -42,7 +42,7 @@ of information and useful details which we don't have the time for during offici
 
 * [Week 1 - Introduction](https://www.youtube.com/watch?v=vPB8vOH_8Fs)
 * [Week 2 - Loops](https://www.youtube.com/watch?v=vsAFPwSbKy0)
-* [Week 3 - Functions](https://www.youtube.com/watch?v=PwNNcfr-2D8)
+* [Week 3 - Functions](https://www.youtube.com/watch?v=wpkJhhzzvo8)
 * [Week 4 - Pointers and Arrays](https://www.youtube.com/watch?v=6DHCoyc-9AI), [Alternative recording](https://www.youtube.com/watch?v=wnylMcLd6sY)
 * [Week 5 - Dynamic Memory Allocation](https://www.youtube.com/watch?v=H4x2gq7gi4M)
 * [Week 6 - Strings](https://www.youtube.com/watch?v=IkyypPHZp1w)
