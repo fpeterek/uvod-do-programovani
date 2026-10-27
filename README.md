@@ -45,7 +45,7 @@ of information and useful details which we don't have the time for during offici
 * [Week 3 - Functions](https://www.youtube.com/watch?v=wpkJhhzzvo8)
 * [Week 4 - Pointers and Arrays](https://www.youtube.com/watch?v=6DHCoyc-9AI), [Alternative recording](https://www.youtube.com/watch?v=wnylMcLd6sY)
 * [Week 5 - Dynamic Memory Allocation](https://www.youtube.com/watch?v=H4x2gq7gi4M)
-* [Week 6 - Strings](https://www.youtube.com/watch?v=IkyypPHZp1w)
+* [Week 6 - Strings](https://www.youtube.com/watch?v=v7svPg6mhK0), [Alternative recording](https://www.youtube.com/watch?v=IkyypPHZp1w)
 * [Week 7 - Structs](https://www.youtube.com/watch?v=C4WKG29W6WM), [Alternative recording](https://www.youtube.com/watch?v=AZPkmqr85q)
 * [Week 8 - Files](https://www.youtube.com/watch?v=QIjBrL0XdrM), [Alternative recording](https://www.youtube.com/watch?v=2HfO-7jWhxQ)
 * [Week 9 - Image Manipulation](https://www.youtube.com/watch?v=_Ys3wlsDcSY)
